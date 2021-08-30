@@ -17,5 +17,4 @@ function Header() {
   );
 }
 
-//Exports Header Component to be used in app.js
 export default Header;
